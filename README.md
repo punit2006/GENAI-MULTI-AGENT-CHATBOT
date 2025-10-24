@@ -1,7 +1,6 @@
 # Groq AI Agent Chatbot (LangGraph + LangChain)
 
 A conversational AI chatbot built using **Groq API**, **LangChain**, **LangGraph**, and **Gradio** — fully runnable in **Google Colab**.  
-This project is based on the architecture of *AIwithHassan’s FastAPI LangGraph chatbot*, restructured into a notebook-friendly format that requires no backend deployment.
 
 ***
 
