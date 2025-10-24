@@ -1,0 +1,2 @@
+GROQ API : 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
+TAVILY API : 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
